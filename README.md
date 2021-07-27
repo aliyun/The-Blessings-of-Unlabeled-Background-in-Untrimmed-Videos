@@ -82,7 +82,7 @@ We referenced the repos below for the code.
 
 
 ## Citation
-Please cite the following paper if you feel our paper useful to your research
+Please cite the following paper if you feel our paper useful to your research.
 ~~~
 @inproceedings{wtal_blessing,
   author    = {Yuan Liu and
